@@ -1,6 +1,6 @@
 window.__CONFIG__ = {
   // The URL for the CORS proxy, the URL must NOT end with a slash!
-  VITE_CORS_PROXY_URL: "https://tubular-creponne-e839ea.netlify.app/",
+  VITE_CORS_PROXY_URL: "https://tubular-creponne-e839ea.netlify.app",
 
   // The READ API key to access TMDB
   VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMDc4MjdiMWIzM2Y5ZWJlMWQ3ZjI0ODIwZWYyM2UzNSIsInN1YiI6IjY1ZDg2OGVmOTkyNTljMDE3Yjk0NDk3NSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.oYZEAlvjuSiujwCPd56KkX8Ih1sllhLwb3O0aQnN6Ak",
